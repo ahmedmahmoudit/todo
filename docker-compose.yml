@@ -2,7 +2,7 @@ version: '2'
 services:
 
   php:
-    image: amshalaby/laravel-php:latest
+    image: amshalaby/laravel-php:7.3
     volumes:
       - ./:/var/www/
       - $HOME/.composer/:$HOME/.composer/
