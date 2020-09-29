@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c226911c-d786-4810-93da-381ee5a78e35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -212,7 +210,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600945430458</updated>
       <workItem from="1600945431685" duration="4393000" />
-      <workItem from="1600952359272" duration="58526000" />
+      <workItem from="1600952359272" duration="58749000" />
     </task>
     <servers />
   </component>
