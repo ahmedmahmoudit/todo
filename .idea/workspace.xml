@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c226911c-d786-4810-93da-381ee5a78e35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/laravel-unit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-unit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -177,8 +175,8 @@
       <recent name="$PROJECT_DIR$/resources/js/tests/unit" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/resources/js/tests/unit" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/resources/js/tests/unit" />
       <recent name="$PROJECT_DIR$/tests" />
       <recent name="$PROJECT_DIR$/vue" />
       <recent name="$PROJECT_DIR$/resources/js/components/pages" />
